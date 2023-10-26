@@ -1,0 +1,14 @@
+{
+    "foscam1": {
+        "host": "192.168.1.1",
+        "port": 88,
+        "login": "admin",
+        "password": "password"
+    },
+    "foscam2": {
+        "host": "192.168.1.",
+        "port": 88,
+        "login": "admin",
+        "password": "password"
+    }
+}
